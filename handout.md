@@ -1,6 +1,6 @@
 ### Intro to Binary Numbers - Why should you care?
 
-> "Binary"
+> Binary
 >
 > *adjective*
 >
@@ -12,27 +12,27 @@
 > 1. the binary system: binary notation.
 > 2. something having two parts.
 
-### Binary is about more than counting with zeros and ones
+### Binary is more than only counting with zeros and ones!
 
 - A way to represent letters, characters, and symbols (English, Spanish, Chinese, etc..) to computers. To a computer, there's no such thing as the number 23 or the letter "A". Those are representations meaningful to people, but they are actually a binary number on a lookup table that points to a picture of the letter "A" or the number 23. 
 - In addition to letters and numbers, computer designers represented command characters like `Enter`, `Backspace`, `Shift`, or `Interrupt` as binary so they could exist on the lookup table and map to keyboard keys. Each key needs to point to a binary number on that lookup table.
 - Bitwise operators = faster/cheaper than division and multiplication for low energy processors
-- Binary logic AKA Boolean logic gives us boolean algebra. Boolean logic is a "BIG DEAL"
+- Binary logic AKA Boolean logic gives us boolean algebra. Boolean logic is a **BIG DEAL**
 - Bitmasking, which is used in everything from `audio compression` to video game graphics
 
-### Why is binary a big deal for computers and software development?
+### Why is binary a big deal for computers and software?
 
 - In a way, software development is all about representing patterns in order to represent information.
 
 - People have created all kinds of counting systems. Base 2, Base 10, Base 8, Base 16.
 
-- Computers and Base 2 work because a 0 represents off and a 1 represents on
+- Computers and Base 2 work because a 0 represents off and a 1 represents on, like a switch.
 
 - Think of each binary exponent as a switch that can be turned on or off.
 
 - The first computers were physical computation machines. A clock is a physical computer!
 
-  The Ancient Greeks invented a machine called the `Antikytera` that computed months and seasons
+  The Ancient Greeks invented a machine called the `Antikytera` that computed months and seasons.
 
   <img src="/Users/moon/binary_intro/hublot-antikythera-1.jpg" height=250>
 
@@ -40,6 +40,7 @@
 
   - When you think `analog`, think record players. They're electrically powered but not digital.
   - This was when we used vacuum tubes and transistors. Computers were the size of entire rooms.
+  - When the switch is `on`, there's current. When it's `off`, there's no current.
 
 - Digital computers store the `on` or `off` of a switch as a `0` or a `1`. With digital representation of bits, we can store massive amounts of information on modern computers. A keyless remote for a vehicle these days has the same computing power and storage as the Apollo 11 Guidance Computer that got 
 
