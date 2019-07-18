@@ -32,7 +32,7 @@
 
 - The first computers were physical computation machines. A clock is a physical computer!
 
-  The Ancient Greeks invented a machine called the `Antikytera` that computed months and seasons.
+  The Ancient Greeks invented a machine called `Antikytera` to compute seasons and eclipses.
 
   <img src="/Users/moon/binary_intro/hublot-antikythera-1.jpg" height=250>
 
@@ -46,13 +46,11 @@
 
 - Allows the expression of as many letters, numbers, symbols, and command codes in a `byte` as possible. A `byte` is 8 bits. For example, the ASCII has 256 characters, numbers, symbols, and control codes. 
 
-#### You can count to 1,023 on your fingers!
+##### You can count to 1,023 on your fingers!
 
 <img src="/Users/moon/binary_intro/binary_on_fingers.png" height=300">
 
-##### Each finger represents an exponent of 2 from 0 to 9
-
-<img src="/Users/moon/binary_intro/binary_on_one_hand.gif" height="275">
+##### Each finger represents an exponent of 2 from 0 to 9<img src="/Users/moon/binary_intro/binary_on_one_hand.gif" height="270">
 
 <table>
 
@@ -113,8 +111,8 @@
     </tr>
 </table>
 
-#### More info
+###### More info
 
 - ASCII lookup table `https://www.ascii-code.com/`
 - Bitmasking and video game graphics `https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673`
-- "Why Use Binary" by Professor Brailsford `https://www.youtube.com/watch?v=thrx3SBEpL8`
+- "Why Use Binary" by Prof. Brailsford `https://www.youtube.com/watch?v=thrx3SBEpL8`
