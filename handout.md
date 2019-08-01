@@ -34,7 +34,7 @@
 
   The Ancient Greeks invented a machine called `Antikytera` to compute seasons and eclipses.
 
-  <img src="/Users/moon/binary_intro/hublot-antikythera-1.jpg" height=250>
+  <img src="./hublot-antikythera-1.jpg" height=250>
 
 - The second wave of computers were electrically powered, but analog. What does that mean?
 
@@ -48,13 +48,15 @@
 
 ##### You can count to 1,023 on your fingers!
 
-<img src="/Users/moon/binary_intro/binary_on_fingers.png" height=300">
+![Binary Exponents on Fingers](./binary_on_fingers.png)
 
-##### Each finger represents an exponent of 2 from 0 to 9<img src="/Users/moon/binary_intro/binary_on_one_hand.gif" height="270">
+
+##### Each finger represents an exponent of 2 from 0 to 9
+<img src="./binary_on_one_hand.gif" height="270">
 
 <table>
 
-​    <tr>
+    <tr>
         <th>Expression</th>
         <th>Exponent</th>
         <th>Value in Base 10</th>
